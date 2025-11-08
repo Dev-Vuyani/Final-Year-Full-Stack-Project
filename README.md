@@ -61,10 +61,10 @@ The system acts as a **middleman** that promotes employment opportunities and af
 ---
 
 ## 🤝 Group Members 
-Vuyani Mthembu 202335014@spu.ac.za
-Katleho Molangeni 202302081@spu.ac.za
-Ntebogang Seanego 202300405@spu.ac.za
-Modiehi Ramosoeu 202328138@spu.ac.za
-Gosego Lesetedi 202002171@spu.ac.za
+- Vuyani Mthembu 202335014@spu.ac.za
+- Katleho Molangeni 202302081@spu.ac.za
+- Ntebogang Seanego 202300405@spu.ac.za
+- Modiehi Ramosoeu 202328138@spu.ac.za
+- Gosego Lesetedi 202002171@spu.ac.za
 
 
